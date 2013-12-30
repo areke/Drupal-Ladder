@@ -5,7 +5,7 @@ SUMMARY
 
 INSTALLATION
 ------------
-1. Place the register_notify module in the /modules directory.
+1. Place the hello module in the /modules directory.
 2. Enable the module under '/admin/modules'.
 
 TODO
